@@ -28,14 +28,12 @@ conda activate car-finding-lane-lines
 Start the jupyter notebook:
 
 ```bash
-python Finding_Lane_Lines_on_the_Road.ipynb
+python Finding_Lane.py
 ```
-
-Execute all the cells in the jupyter notebook.  The output videos are generated in the `output_videos` folder.
-
 ---
 
 The following explains what the codes in the notebook do.
 
 ### Test Video link 
-https://drive.google.com/file/d/1WiebkAXB2UIpNpgOJSavrdBHL7m98he1/view?usp=sharing
+you can download the video in this [Link](https://drive.google.com/file/d/1WiebkAXB2UIpNpgOJSavrdBHL7m98he1/view?usp=sharing).
+
