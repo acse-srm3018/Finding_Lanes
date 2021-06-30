@@ -37,7 +37,7 @@ Then, activate the environment:
 conda activate car-finding-lane-lines
 ```
 
-Start the jupyter notebook:
+Run python code in terminal:
 
 ```bash
 python Finding_Lane.py
