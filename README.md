@@ -10,6 +10,7 @@ The following techniques are used:
 - Hough Transform Line Detection
 
 Then a pipeline consisted of 3 parts used to finding lanes:
+<br>
 Part One
 
 First, I converted the images to grayscale, then I applied blur to avoid noise in the edges detection process. With the processed image I used Canny detection to find edges, this returned many irrelevant edges, so I defined vertices to make a region of interest. After that, I used Hough transformation to get lines from these edges. Finaly I drawed this lines in the original image.
