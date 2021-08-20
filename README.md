@@ -23,7 +23,7 @@ Part Three
 <br>
 In final part, I tested and tuned the parameters looking for the best fit in images and videos, the results were very satisfatory, but I couldn't performed well with the challenge video, I belive that more advanced and complex algorithims are needed to find lanes in that conditions.
 
-## How to Reproduce the results
+## How to reproduce the results
 
 To set up the conda environment, execute the following:
 
